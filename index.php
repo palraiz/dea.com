@@ -18,7 +18,7 @@
             font-weight: normal;
             font-style: normal;
         }
-        </style>
+    </style>
     <link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
     <link href="css/slider.css" rel="stylesheet" type="text/css" media="all" />
     <link href="css/productviewgallery.css" rel="stylesheet" type="text/css" media="all" />
@@ -38,8 +38,8 @@
 		<ul class="icon1 sub-icon1">
 			<li><a class="active-icon c1" href="#"><i>$300</i></a>
 				<ul class="sub-icon1 list">
-					<li><h3>shopping cart empty</h3><a href=""></a></li>
-					<li><p>if items in your wishlit are missing, <a href="contact.html">contact us</a> to view them</p></li>
+                    <li><h3>Корзина пуста</h3><a href=""></a></li>
+                    <li><p>Если что-то пошло не так, то свяжитесь с <a href="">нами</a></p></li>
 				</ul>
 			</li>
 		</ul>
@@ -61,11 +61,11 @@
 		<div class="h_menu">
 <!--            Верхнее меню-->
 			<ul>
-				<li class="active"><a href="index.php">Главная</a></li> |
-				<li><a href="">Пункт меню</a></li> |
-				<li><a href="">Пункт меню</a></li> |
-				<li><a href="">Пункт меню</a></li> |
-				<li><a href="">Пункт меню</a></li>
+                <li class="active"><a href="index.php">Главная</a></li> |
+                <li><a href="punkt.php">Пункт меню</a></li> |
+                <li><a href="punkt.php">Пункт меню</a></li> |
+                <li><a href="punkt.php">Пункт меню</a></li> |
+                <li><a href="punkt.php">Пункт меню</a></li>
 			</ul>
 		</div>
 	<div class="clear"></div>
@@ -213,7 +213,7 @@
 	<div class="footer">
 		 <a href="#" id="toTop" style="display: block;"><span id="toTopHover" style="opacity: 1;"></span></a>
 		<div class="copy">
-			<p class="link">&copy;  All rights reserved | Template by&nbsp; Palraiz Studio</p>
+			<p class="link">&copy;  Все права защищены | Разработано&nbsp; Palraiz Studio</p>
 		</div>
 		<div class="clear"></div>
 	</div>
